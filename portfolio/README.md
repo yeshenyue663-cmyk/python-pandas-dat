@@ -2,7 +2,7 @@
 
 Statistics undergraduate, expected to graduate in July 2027. I frame business questions, define measurable indicators, use SQL, Python, and statistical methods to examine evidence, and translate findings into decision-ready recommendations.
 
-**[View the 16-page portfolio (PDF)](./Data_Analytics_Portfolio)**
+**[View the 16-page portfolio (PDF)](./Data_Analytics_Portfolio.pdf)**
 
 ## Projects
 
